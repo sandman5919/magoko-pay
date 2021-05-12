@@ -17,7 +17,7 @@
   <properties>
     <dep.spring-boot.version>2.3.10.RELEASE</dep.spring-boot.version>
     <parameter.license-header.location>
-      ${basedir}/../magoko-login-build-parent/src/license-header.txt
+      ${basedir}/../magoko-pay-build-parent/src/license-header.txt
     </parameter.license-header.location>
   </properties>
   <dependencyManagement>
