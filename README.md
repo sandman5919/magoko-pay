@@ -1,4 +1,4 @@
-# MagOKO Pay
+# MagOKO Pay [![Build](https://github.com/deepinthink-magoko/magoko-pay/actions/workflows/maven.yml/badge.svg)](https://github.com/deepinthink-magoko/magoko-pay/actions/workflows/maven.yml)
 DEEPINTHINK MagOKO Pay server implementation.
 
 ## License
