@@ -43,6 +43,7 @@
   <modules>
     <module>magoko-pay-bom</module>
     <module>magoko-pay-build-parent</module>
+    <module>magoko-pay-server</module>
     <module>magoko-pay-server-core</module>
     <module>magoko-starter-pay-server</module>
   </modules>
