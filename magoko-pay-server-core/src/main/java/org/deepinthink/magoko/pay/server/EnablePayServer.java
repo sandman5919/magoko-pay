@@ -13,10 +13,10 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.deepinthink.magoko.pay.server.core;
+package org.deepinthink.magoko.pay.server;
 
 import java.lang.annotation.*;
-import org.deepinthink.magoko.pay.server.core.config.PayServerEnableMarkerConfiguration;
+import org.deepinthink.magoko.pay.server.config.PayServerEnableMarkerConfiguration;
 import org.springframework.context.annotation.Import;
 
 @Target(ElementType.TYPE)
